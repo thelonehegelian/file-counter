@@ -1,0 +1,1 @@
+**Does not count the number of files in subdirectories**
