@@ -1,1 +1,1 @@
-**Does not count the number of files in subdirectories**
+**Does not count the number of files in nested subdirectories**
